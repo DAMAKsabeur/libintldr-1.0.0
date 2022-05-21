@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/intldr.h
+stdint.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/sabeur/Documents/DWL/BO_sc-downloader.env-v1/output/diw362_72604_UP_17.3_totalplay_debug/build/libintldr-1.0.0/src/intldr.c
+intldr.h
+/home/sabeur/Documents/DWL/BO_sc-downloader.env-v1/output/diw362_72604_UP_17.3_totalplay_debug/build/libintldr-1.0.0/src/intldr.h
+intldr_internal.h
+/home/sabeur/Documents/DWL/BO_sc-downloader.env-v1/output/diw362_72604_UP_17.3_totalplay_debug/build/libintldr-1.0.0/src/intldr_internal.h
+
+/home/sabeur/Documents/DWL/BO_sc-downloader.env-v1/output/diw362_72604_UP_17.3_totalplay_debug/build/libintldr-1.0.0/src/intldr_flash_acess.c
+intldr.h
+/home/sabeur/Documents/DWL/BO_sc-downloader.env-v1/output/diw362_72604_UP_17.3_totalplay_debug/build/libintldr-1.0.0/src/intldr.h
+intldr_internal.h
+/home/sabeur/Documents/DWL/BO_sc-downloader.env-v1/output/diw362_72604_UP_17.3_totalplay_debug/build/libintldr-1.0.0/src/intldr_internal.h
+errno.h
+-
+
+/home/sabeur/Documents/DWL/BO_sc-downloader.env-v1/output/diw362_72604_UP_17.3_totalplay_debug/build/libintldr-1.0.0/src/intldr_internal.h
+stdint.h
+-
+stdlib.h
+-
+stdio.h
+-
+intldr.h
+/home/sabeur/Documents/DWL/BO_sc-downloader.env-v1/output/diw362_72604_UP_17.3_totalplay_debug/build/libintldr-1.0.0/src/intldr.h
+
